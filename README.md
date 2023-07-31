@@ -1,6 +1,6 @@
 # Embedded-IoT-application-for-remote-system-monitoring
 
-This project was developed as a final project for the "Advanced Topics in Information Systems" class of the "Control and Computing" master's programme. The project was inspired by smart home/garden applications and with a few modifications can be turned into any one of those.
+This project was developed as a final project for the "Advanced Topics in Information Systems" class of the "Control and Computing" master's programme. The project was inspired by smart home/garden applications and with a few modifications can be turned into either one of those.
 
 
 The application consists of two major components:
